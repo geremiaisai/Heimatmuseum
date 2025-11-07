@@ -71,7 +71,7 @@
 	
 
 	
-	<scene name="scene_0eg_gang1" title="0EG_Gang1" onstart="" thumburl="panos/0EG_Gang1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_gang1" title="0_EG_Gang1" onstart="" thumburl="panos/0EG_Gang1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="true" />
 
@@ -88,7 +88,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_gang2" title="0EG_Gang2" onstart="" thumburl="panos/0EG_Gang2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_gang2" title="0_EG_Gang2" onstart="" thumburl="panos/0EG_Gang2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -105,7 +105,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_gang3" title="0EG_Gang3" onstart="" thumburl="panos/0EG_Gang3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_gang3" title="0_EG_Gang_3" onstart="" thumburl="panos/0EG_Gang3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -123,7 +123,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_gang4" title="0EG_Gang4" onstart="" thumburl="panos/0EG_Gang4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_gang4" title="0_EG_Gang_4" onstart="" thumburl="panos/0EG_Gang4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -140,7 +140,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum1_back" title="0EG_Raum1_Back" onstart="" thumburl="panos/0EG_Raum1_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum1_back" title="0_EG_Stadtentwicklung_Back" onstart="" thumburl="panos/0EG_Raum1_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -158,7 +158,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum1_front" title="0EG_Raum1_Front" onstart="" thumburl="panos/0EG_Raum1_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum1_front" title="0_EG_Stadtentwicklung_Front" onstart="" thumburl="panos/0EG_Raum1_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -176,7 +176,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum1_left" title="0EG_Raum1_Left" onstart="" thumburl="panos/0EG_Raum1_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum1_left" title="0_EG_Stadtentwicklung_Left" onstart="" thumburl="panos/0EG_Raum1_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -194,7 +194,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum1_middle" title="0EG_Raum1_Middle" onstart="" thumburl="panos/0EG_Raum1_Middle.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum1_middle" title="0_EG_Stadtentwicklung_Middle" onstart="" thumburl="panos/0EG_Raum1_Middle.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -208,7 +208,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum1_right" title="0EG_Raum1_Right" onstart="" thumburl="panos/0EG_Raum1_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum1_right" title="0_EG_Stadtentwicklung_Right" onstart="" thumburl="panos/0EG_Raum1_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -225,7 +225,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum2_left" title="0EG_Raum2_Left" onstart="" thumburl="panos/0EG_Raum2_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum2_left" title="0_EG_Zwischenraum_Left" onstart="" thumburl="panos/0EG_Raum2_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -242,7 +242,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum2_middle" title="0EG_Raum2_Middle" onstart="" thumburl="panos/0EG_Raum2_Middle.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum2_middle" title="0_EG_Zwischenraum_Middle" onstart="" thumburl="panos/0EG_Raum2_Middle.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -261,7 +261,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum2_right" title="0EG_Raum2_Right" onstart="" thumburl="panos/0EG_Raum2_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum2_right" title="0_EG_Zwischenraum_Right" onstart="" thumburl="panos/0EG_Raum2_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -277,7 +277,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum3_back" title="0EG_Raum3_Back" onstart="" thumburl="panos/0EG_Raum3_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum3_back" title="0_EG_Industrie und Gewerbe_Back" onstart="" thumburl="panos/0EG_Raum3_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -294,7 +294,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum3_front" title="0EG_Raum3_Front" onstart="" thumburl="panos/0EG_Raum3_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum3_front" title="0_EG_Industrie und Gewerbe_Front" onstart="" thumburl="panos/0EG_Raum3_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -312,7 +312,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum3_left" title="0EG_Raum3_Left" onstart="" thumburl="panos/0EG_Raum3_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum3_left" title="0_EG_Industrie und Gewerbe_Left" onstart="" thumburl="panos/0EG_Raum3_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -329,7 +329,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum3_middle" title="0EG_Raum3_Middle" onstart="" thumburl="panos/0EG_Raum3_Middle.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum3_middle" title="0_EG_Industrie und Gewerbe_Middle" onstart="" thumburl="panos/0EG_Raum3_Middle.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -343,7 +343,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_raum3_right" title="0EG_Raum3_Right" onstart="" thumburl="panos/0EG_Raum3_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_raum3_right" title="0_EG_Industrie und Gewerbe_Right" onstart="" thumburl="panos/0EG_Raum3_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -360,7 +360,7 @@
 
 	</scene>
 
-	<scene name="scene_0eg_treppe" title="0EG_Treppe" onstart="" thumburl="panos/0EG_Treppe.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_0eg_treppe" title="0_EG_Treppe" onstart="" thumburl="panos/0EG_Treppe.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -377,7 +377,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_gang1" title="1OG_Gang1" onstart="" thumburl="panos/1OG_Gang1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_gang1" title="1_OG_Gang1" onstart="" thumburl="panos/1OG_Gang1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -394,7 +394,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_gang2" title="1OG_Gang2" onstart="" thumburl="panos/1OG_Gang2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_gang2" title="1_OG_Gang2" onstart="" thumburl="panos/1OG_Gang2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -411,7 +411,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_gang3" title="1OG_Gang3" onstart="" thumburl="panos/1OG_Gang3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_gang3" title="1_OG_Gang3" onstart="" thumburl="panos/1OG_Gang3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -430,7 +430,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum1" title="1OG_Raum1" onstart="" thumburl="panos/1OG_Raum1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum1" title="1_OG_Haushaltung" onstart="" thumburl="panos/1OG_Raum1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -447,7 +447,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum2_back" title="1OG_Raum2_Back" onstart="" thumburl="panos/1OG_Raum2_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum2_back" title="1_OG_Kueche_Back" onstart="" thumburl="panos/1OG_Raum2_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -463,7 +463,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum2_front" title="1OG_Raum2_Front" onstart="" thumburl="panos/1OG_Raum2_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum2_front" title="1_OG_Kueche_Front" onstart="" thumburl="panos/1OG_Raum2_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -480,7 +480,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum2_middle" title="1OG_Raum2_Middle" onstart="" thumburl="panos/1OG_Raum2_Middle.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum2_middle" title="1_OG_Kueche_Middle" onstart="" thumburl="panos/1OG_Raum2_Middle.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -497,7 +497,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum3_back" title="1OG_Raum3_Back" onstart="" thumburl="panos/1OG_Raum3_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum3_back" title="1_OG_Leben und Arbeiten_Back" onstart="" thumburl="panos/1OG_Raum3_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -514,7 +514,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum3_front" title="1OG_Raum3_Front" onstart="" thumburl="panos/1OG_Raum3_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum3_front" title="1_OG_Leben und Arbeiten_Front" onstart="" thumburl="panos/1OG_Raum3_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -533,7 +533,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum3_left" title="1OG_Raum3_Left" onstart="" thumburl="panos/1OG_Raum3_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum3_left" title="1_OG_Leben und Arbeiten_Left" onstart="" thumburl="panos/1OG_Raum3_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -551,7 +551,7 @@
 
 	</scene>
 
-		<scene name="scene_1og_raum3_right" title="1OG_Raum3_Right" onstart="" thumburl="panos/1OG_Raum3_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+		<scene name="scene_1og_raum3_right" title="1_OG_Leben und Arbeiten_Right" onstart="" thumburl="panos/1OG_Raum3_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -568,7 +568,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum4_back" title="1OG_Raum4_Back" onstart="" thumburl="panos/1OG_Raum4_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum4_back" title="1_OG_Kirche und Festung_Back" onstart="" thumburl="panos/1OG_Raum4_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -587,7 +587,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum4_front" title="1OG_Raum4_Front" onstart="" thumburl="panos/1OG_Raum4_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum4_front" title="1_OG_Kirche und Festung_Front" onstart="" thumburl="panos/1OG_Raum4_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -605,7 +605,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum4_left" title="1OG_Raum4_Left" onstart="" thumburl="panos/1OG_Raum4_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum4_left" title="1_OG_Kirche und Festung_Left" onstart="" thumburl="panos/1OG_Raum4_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -622,7 +622,7 @@
 
 	</scene>
 
-		<scene name="scene_1og_raum4_right1" title="1OG_Raum4_Right1" onstart="" thumburl="panos/1OG_Raum4_Right1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+		<scene name="scene_1og_raum4_right1" title="1_OG_Kirche und Festung_Right1" onstart="" thumburl="panos/1OG_Raum4_Right1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -639,7 +639,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_raum4_right2" title="1OG_Raum4_Right2" onstart="" thumburl="panos/1OG_Raum4_Right2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_raum4_right2" title="1_OG_Kirche und Festung_Right2" onstart="" thumburl="panos/1OG_Raum4_Right2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -655,7 +655,7 @@
 
 	</scene>
 
-	<scene name="scene_1og_treppe" title="1OG_Treppe" onstart="" thumburl="panos/1OG_Treppe.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_1og_treppe" title="1_OG_Treppe" onstart="" thumburl="panos/1OG_Treppe.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -672,7 +672,7 @@
 
 	</scene>
 
-	<scene name="scene_2og_gang1" title="2OG_Gang1" onstart="" thumburl="panos/2OG_Gang1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_2og_gang1" title="2_OG_Gang1" onstart="" thumburl="panos/2OG_Gang1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -689,7 +689,7 @@
 
 	</scene>
 
-	<scene name="scene_2og_gang2" title="2OG_Gang2" onstart="" thumburl="panos/2OG_Gang2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_2og_gang2" title="2_OG_Gang2" onstart="" thumburl="panos/2OG_Gang2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -706,7 +706,7 @@
 
 	</scene>
 
-	<scene name="scene_2og_gang3" title="2OG_Gang3" onstart="" thumburl="panos/2OG_Gang3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_2og_gang3" title="2_OG_Gang3" onstart="" thumburl="panos/2OG_Gang3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -724,7 +724,7 @@
 
 	</scene>
 
-	<scene name="scene_2og_raum1_back" title="2OG_Raum1_Back" onstart="" thumburl="panos/2OG_Raum1_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_2og_raum1_back" title="2_OG_Salon Scheurmann_Back" onstart="" thumburl="panos/2OG_Raum1_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -740,7 +740,7 @@
 
 	</scene>
 
-	<scene name="scene_2og_raum1_front" title="2OG_Raum1_Front" onstart="" thumburl="panos/2OG_Raum1_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_2og_raum1_front" title="2_OG_Salon Scheurmann_Front" onstart="" thumburl="panos/2OG_Raum1_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -758,7 +758,7 @@
 
 	</scene>
 
-	<scene name="scene_2og_raum2_back" title="2OG_Raum2_Back" onstart="" thumburl="panos/2OG_Raum2_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_2og_raum2_back" title="2_OG_Kinderspielzeug_Back" onstart="" thumburl="panos/2OG_Raum2_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -774,7 +774,7 @@
 
 	</scene>
 
-	<scene name="scene_2og_raum2_front" title="2OG_Raum2_Front" onstart="" thumburl="panos/2OG_Raum2_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_2og_raum2_front" title="2_OG_Kinderspielzeug_Front" onstart="" thumburl="panos/2OG_Raum2_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -791,7 +791,7 @@
 
 	</scene>
 
-	<scene name="scene_2og_treppe" title="2OG_Treppe" onstart="" thumburl="panos/2OG_Treppe.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_2og_treppe" title="2_OG_Treppe" onstart="" thumburl="panos/2OG_Treppe.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -808,7 +808,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_gang1" title="3OG_Gang1" onstart="" thumburl="panos/3OG_Gang1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_gang1" title="3_OG_Gang1" onstart="" thumburl="panos/3OG_Gang1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -825,7 +825,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_gang2" title="3OG_Gang2" onstart="" thumburl="panos/3OG_Gang2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_gang2" title="3_OG_Gang2" onstart="" thumburl="panos/3OG_Gang2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -844,7 +844,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_gang3" title="3OG_Gang3" onstart="" thumburl="panos/3OG_Gang3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_gang3" title="3_OG_Gang3" onstart="" thumburl="panos/3OG_Gang3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -863,7 +863,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_raum1_front" title="3OG_Raum1_Front" onstart="" thumburl="panos/3OG_Raum1_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_raum1_front" title="3_OG_Schlafzimmer_Front" onstart="" thumburl="panos/3OG_Raum1_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -881,7 +881,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_raum1_left" title="3OG_Raum1_Left" onstart="" thumburl="panos/3OG_Raum1_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_raum1_left" title="3_OG_Schlafzimmer_Left" onstart="" thumburl="panos/3OG_Raum1_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -897,7 +897,7 @@
 
 	</scene>
 
-		<scene name="scene_3og_raum1_right" title="3OG_Raum1_Right" onstart="" thumburl="panos/3OG_Raum1_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+		<scene name="scene_3og_raum1_right" title="3_OG_Schlafzimmer_Right" onstart="" thumburl="panos/3OG_Raum1_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -915,7 +915,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_raum2_back" title="3OG_Raum2_Back" onstart="" thumburl="panos/3OG_Raum2_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_raum2_back" title="3_OG_Badezimmer_Back" onstart="" thumburl="panos/3OG_Raum2_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -931,7 +931,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_raum2_front" title="3OG_Raum2_Front" onstart="" thumburl="panos/3OG_Raum2_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_raum2_front" title="3_OG_Badezimmer_Front" onstart="" thumburl="panos/3OG_Raum2_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -949,7 +949,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_raum3_back" title="3OG_Raum3_Back" onstart="" thumburl="panos/3OG_Raum3_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_raum3_back" title="3_OG_Strafen und Richten_Back" onstart="" thumburl="panos/3OG_Raum3_Back.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -965,7 +965,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_raum3_front" title="3OG_Raum3_Front" onstart="" thumburl="panos/3OG_Raum3_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_raum3_front" title="3_OG_Strafen und Richten_Front" onstart="" thumburl="panos/3OG_Raum3_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -982,7 +982,7 @@
 
 	</scene>
 
-	<scene name="scene_3og_treppe" title="3OG_Treppe" onstart="" thumburl="panos/3OG_Treppe.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_3og_treppe" title="3_OG_Treppe" onstart="" thumburl="panos/3OG_Treppe.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -999,7 +999,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_1" title="4OG-1" onstart="" thumburl="panos/4OG_1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_1" title="4_OG_Waffenraum_1" onstart="" thumburl="panos/4OG_1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1017,7 +1017,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_2" title="4OG-2" onstart="" thumburl="panos/4OG_2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_2" title="4_OG_Waffenraum_2" onstart="" thumburl="panos/4OG_2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1034,7 +1034,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_3" title="4OG-3" onstart="" thumburl="panos/4OG_3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_3" title="4_OG_Waffenraum_3" onstart="" thumburl="panos/4OG_3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1051,7 +1051,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_4" title="4OG-4" onstart="" thumburl="panos/4OG_4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_4" title="4_OG_Waffenraum_4" onstart="" thumburl="panos/4OG_4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1069,7 +1069,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_5" title="4OG-5" onstart="" thumburl="panos/4OG_5.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_5" title="4_OG_Waffenraum_5" onstart="" thumburl="panos/4OG_5.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1086,7 +1086,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_6" title="4OG-6" onstart="" thumburl="panos/4OG_6.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_6" title="4_OG_Waffenraum_6" onstart="" thumburl="panos/4OG_6.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1105,7 +1105,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_7" title="4OG-7" onstart="" thumburl="panos/4OG_7.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_7" title="4_OG_Waffenraum_7" onstart="" thumburl="panos/4OG_7.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1125,7 +1125,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_8" title="4OG-8" onstart="" thumburl="panos/4OG_8.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_8" title="4_OG_Waffenraum_8" onstart="" thumburl="panos/4OG_8.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1142,7 +1142,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_9" title="4OG-9" onstart="" thumburl="panos/4OG_9.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_9" title="4_OG_Waffenraum_9" onstart="" thumburl="panos/4OG_9.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1160,7 +1160,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_10" title="4OG-10" onstart="" thumburl="panos/4OG_10.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_10" title="4_OG_Waffenraum_10" onstart="" thumburl="panos/4OG_10.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1178,7 +1178,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_11" title="4OG-11" onstart="" thumburl="panos/4OG_11.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_11" title="4_OG_Waffenraum_11" onstart="" thumburl="panos/4OG_11.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1196,7 +1196,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_12" title="4OG-12" onstart="" thumburl="panos/4OG_12.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_12" title="4_OG_Waffenraum_12" onstart="" thumburl="panos/4OG_12.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1213,7 +1213,7 @@
 
 	</scene>
 
-	<scene name="scene_4og_13" title="4OG-13" onstart="" thumburl="panos/4OG_13.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_4og_13" title="4_OG_Waffenraum_13" onstart="" thumburl="panos/4OG_13.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1230,7 +1230,7 @@
 
 	</scene>
 
-	<scene name="scene_feuerwehr_aussen" title="Feuerwehr_Aussen" onstart="" thumburl="panos/Feuerwehr_Aussen.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_feuerwehr_aussen" title="Museumspaerkli" onstart="" thumburl="panos/Feuerwehr_Aussen.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1247,7 +1247,7 @@
 
 	</scene>
 
-	<scene name="scene_feuerwehr_front" title="Feuerwehr_Front" onstart="" thumburl="panos/Feuerwehr_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_feuerwehr_front" title="Schopf_Feuerwehr_Front" onstart="" thumburl="panos/Feuerwehr_Front.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1265,7 +1265,7 @@
 
 	</scene>
 
-	<scene name="scene_feuerwehr_left" title="Feuerwehr_Left" onstart="" thumburl="panos/Feuerwehr_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_feuerwehr_left" title="Schopf_Feuerwehr_Left" onstart="" thumburl="panos/Feuerwehr_Left.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -1281,7 +1281,7 @@
 
 	</scene>
 
-		<scene name="scene_feuerwehr_right" title="Feuerwehr_Right" onstart="" thumburl="panos/Feuerwehr_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+		<scene name="scene_feuerwehr_right" title="Schopf_Feuerwehr_Right" onstart="" thumburl="panos/Feuerwehr_Right.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
