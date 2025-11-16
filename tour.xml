@@ -3,7 +3,7 @@
 	<include url="skin/vtourskin.xml" />
 
 	<!-- Splashscreen -->
-	<layer name="splash"
+	<!-- <layer name="splash"
 		url="Heimatmuseum_Aarburg_Splashscreen.png"
 		keep="true"
 		align="center"
@@ -17,7 +17,7 @@
 		loadscene(get(startscene), null, MERGE, BLEND(1));
 		delayedcall(0.5, tween(layer[splash].alpha, 0, 2.0, default,
 		set(layer[splash].visible,false)));
-	</action>
+	</action> -->
 
 
 	<!-- customize skin settings: maps, gyro, webvr, thumbnails, tooltips, layout, design, ... -->
