@@ -4,7 +4,7 @@
 
 	<!-- Splashscreen -->
 	<layer name="splash"
-		url="splashscreen.png"
+		url="Heimatmuseum_Aarburg_Splashscreen.png"
 		keep="true"
 		align="center"
 		alpha="1"
