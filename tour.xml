@@ -105,7 +105,7 @@
 		</image>
 
 		<hotspot name="spot1719233641" style="skin_hotspotstyle" ath="-6.119" atv="20.81"
-			depth="1000.0" linkedscene="scene_0eg_gang2" linkedscene_lookat="0.0,0.0,120.0" />
+			depth="1000.0" linkedscene="scene_0eg_gang2" linkedscene_lookat="0.0,0.0,120.0" use3dtransition="true"/>
 		<hotspot name="spot1719236162" style="skin_hotspotstyle" ath="84.722" atv="22.655"
 			depth="1000.0" linkedscene="scene_0eg_raum1_front" linkedscene_spot="spot1719236416"
 			linkedscene_hoffset="7.59" use3dtransition="true" />
