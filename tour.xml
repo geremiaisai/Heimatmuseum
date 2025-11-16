@@ -2,18 +2,21 @@
 
 	<include url="skin/vtourskin.xml" />
 
+	<!-- Splashscreen -->
 	<layer name="splash"
-		url="Heimatmuseum_Aarburg_Splashscreen.png"
+		url="splashscreen.png"
 		keep="true"
 		align="center"
-		scale="1"
 		alpha="1"
 		visible="true"
-		onclick="set(visible,false);" />
+		handcursor="false"
+		enabled="false"
+		zorder="10000" />
 
 	<action name="startup">
 		loadscene(get(startscene), null, MERGE, BLEND(1));
-		tween(layer[splash].alpha,0,2.0,default,delayedcall(0.2, set(layer[splash].visible,false)));
+		delayedcall(0.5, tween(layer[splash].alpha, 0, 2.0, default,
+		set(layer[splash].visible,false)));
 	</action>
 
 
